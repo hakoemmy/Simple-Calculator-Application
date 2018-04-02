@@ -8,27 +8,15 @@ Passion and Interest in Software Development Industry ".
 ```markdown
 These are my Specilisation fields.
 
-# 1. Web Designing and development
-## 2. Desktop applications Development
-### 3. Android applications Development
+# Web Designing and development
+## Desktop applications Development
+### Android applications Development
 
-- Bulleted
-- List
+**Hire Me** and _I am real Software Developer_ 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HakorimanaEmmanuel/Simple-Calculator-Application/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details about my Skills kindly view [My Linkedin Profetional Profile](https://www.linkedin.com/in/hakorimana-emmanuel-b299a915a/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Are you interested? [Follow me on Facebook](https://www.facebook.com/profile.php?id=100007252814738) and we’ll assit you according
+to your needs and wants. thanks.
