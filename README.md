@@ -6,11 +6,11 @@
 " HAKORIMANA Emmanuel is honest, kind, collaborative, quick-learner and responsible Software Developer with 
 Passion and Interest in Software Development Industry ".
 ```markdown
-Syntax highlighted code block
+These are my Specilisation fields.
 
-# Header 1
-## Header 2
-### Header 3
+# 1. Web Designing and development
+## 2. Desktop applications Development
+### 3. Android applications Development
 
 - Bulleted
 - List
