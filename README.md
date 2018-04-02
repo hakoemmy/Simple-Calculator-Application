@@ -1,13 +1,10 @@
-## Welcome to Portifolio
+## Welcome to My Portifolio
 
-You can use the [editor on GitHub](https://github.com/HakorimanaEmmanuel/Simple-Calculator-Application/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### HAKORIMANA Emmanuel
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+" HAKORIMANA Emmanuel is honest, kind, collaborative, quick-learner and responsible Software Developer with 
+Passion and Interest in Software Development Industry ".
 ```markdown
 Syntax highlighted code block
 
